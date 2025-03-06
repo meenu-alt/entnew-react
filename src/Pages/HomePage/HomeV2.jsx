@@ -14,7 +14,7 @@ import TestimonialSection from '../../Components/TestimonialSection';
 import VideoSection from '../../Components/VideoSection';
 const HeroData = {
   backgroundImage: 'assets/img/hero_slider_4.jpg',
-  title: 'Doctors Need Help Patient Service.',
+  title: 'Doctors Need Help Patient Servicee.',
   subtitle:
     'Medical ers piciatis unde omnis iste natus this mountains, far from the countries for medical.',
   features: [
