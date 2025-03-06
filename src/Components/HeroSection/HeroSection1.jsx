@@ -65,13 +65,13 @@ const HeroSection1 = ({ data }) => {
               <div className="cs_hero_shape">
                 <img src={data.heroShape} alt="" />
               </div>
-              <div className="cs_hero_card cs_center" data-aos="zoom-in">
+              {/* <div className="cs_hero_card cs_center" data-aos="zoom-in">
                 <h4>
                   {data.supportText.number}
                   <span>{data.supportText.unit}</span>
                 </h4>
                 <p>{data.supportText.description}</p>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
