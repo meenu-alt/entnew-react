@@ -14,41 +14,18 @@ import TestimonialSection from '../../Components/TestimonialSection';
 import VideoSection from '../../Components/VideoSection';
 const HeroData = {
   backgroundImage: 'assets/img/hero_slider_4.jpg',
-  title: 'Doctors Need Help Patient Servicee.',
-  subtitle:
-    'Medical ers piciatis unde omnis iste natus this mountains, far from the countries for medical.',
+  title: '',
   features: [
-    'This man for it Medical Doctor.',
-    'We provide a revolutionary medical service.',
   ],
 
-  btnText: 'Contact Now',
-  btnHref: '/contact',
 
-  BtnText1: 'How We Work',
-  videoHref: 'https://www.youtube.com/embed/rRid6GCJtgc',
+  
 
-  heroShape: 'assets/img/icons/hero_shape_1.png',
   supportText: {
-    number: '24',
-    unit: 'Hours',
-    description: 'Support',
+  
   },
   iconBoxes: [
-    {
-      icon: 'assets/img/icons/call_icon_1.png',
-      title: 'Emergency Call',
-      subtitle: '24/7 – Support and easy',
-      buttonHref: '/appointments',
-      buttonText: 'Appointment Now',
-    },
-    {
-      icon: 'assets/img/icons/message_icon_1.png',
-      title: 'Your Message',
-      subtitle: 'medixo25822@gmail.com',
-      buttonHref: '/appointments',
-      buttonText: 'Appointment Now',
-    },
+   
   ],
 };
 
